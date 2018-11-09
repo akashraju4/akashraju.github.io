@@ -23,7 +23,7 @@ html {
     overflow: hidden;
 }
 
-body { background: #0f0f0f; }
+body { background: #000; }
 
 
 /* ------------------------------------------------------------------ */
@@ -35,7 +35,8 @@ body { background: #0f0f0f; }
    padding-bottom: 102px;   
    min-height: 900px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat center center;
+   background: none;
+   /* background-color: green; */
    background-size: cover !important;
 	-webkit-background-size: cover !important;   
 }
