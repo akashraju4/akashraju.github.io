@@ -42,7 +42,18 @@ video {
   transform: translateX(-50%) translateY(-50%);
   z-index: 0;
 }
-
+picture {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  z-index: 0;
+}
 @media (pointer: coarse) and (hover: none) {
   body {
     background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
@@ -59,7 +70,7 @@ video {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #cd9557;
+  background-color: #002E66;
   opacity: 0.7;
   z-index: 1;
 }
