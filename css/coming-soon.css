@@ -55,7 +55,7 @@ picture {
 } */
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../img/testimage.jpg") #002E66 no-repeat center center scroll;
+    background: url("../img/testimage.jpg") #578CA9 no-repeat center center scroll;
     background-position: cover;
   }
   body video {
@@ -215,7 +215,7 @@ img {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #002E66;
+    background-color: #578CA9;
   }
 }
 
