@@ -71,7 +71,8 @@ picture {
   height: 100%;
   width: 100%;
   /* background-image: url("../img/testimage.jpg") red no-repeat center center scroll; */
-  opacity: 0.5;
+  background-color: #578CA9;
+  /* opacity: 0.5; */
   z-index: 1;
   display: block;
 }
