@@ -1897,9 +1897,17 @@ h1, h2, h3, h4, h5, h6 {
   display: none !important;
 }
 
+.navbar-brand {
+  width: 40%;
+}
+
 @media (max-width: 991px) {
   .main-menubar {
-    display: block !important;
+    display: inline-block !important;
+  }
+
+  .navbar-brand {
+    width: 100%;
   }
 }
 
