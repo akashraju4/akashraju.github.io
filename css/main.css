@@ -2263,8 +2263,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
-  background-size: cover;
+  /* background: url(../img/header-bg.jpg) center;
+  background-size: cover; */
 }
 
 .banner-content {
@@ -2276,7 +2276,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   font-weight: 700;
   line-height: 1em;
-  margin-top: 20px;
+  margin-top: 100px;
 }
 
 .banner-content h1 span {
@@ -2320,9 +2320,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-  background: #fff;
+  background: black;
   border: 1px solid transparent;
-  color: #222;
+  color:white;
   padding-left: 40px;
   padding-right: 40px;
   border-radius: 50px;
@@ -2349,7 +2349,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .video-area {
   padding: 200px 0 200px 0;
   position: relative;
-  background: url(../img/video-bg.jpg) no-repeat center center/cover;
+  /* background: url(../img/video-bg.jpg) no-repeat center center/cover; */
 }
 
 .video-area .overlay-bg {
@@ -2669,7 +2669,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area {
   padding-top: 100px;
-  background-color: #222222;
+  background-color: black;
 }
 
 .footer-area .footer-nav li {
