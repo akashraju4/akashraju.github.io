@@ -6432,7 +6432,7 @@ b, strong {
   font-weight: 700; }
 
 a {
-  color: #d81b60;
+  color: #ffffff;
   transition: all .35s; }
 
 a:hover,
@@ -6585,7 +6585,7 @@ section {
 * Social Icons
 ================================================*/
 .text-twitter-alt, .text-facebook-alt, .text-linkedin-alt, .text-google-alt, .text-github-alt {
-  color: #d81b60; }
+  color: #ffffff; }
 
 .text-twitter, .text-twitter-alt:hover {
   color: #00aced; }
